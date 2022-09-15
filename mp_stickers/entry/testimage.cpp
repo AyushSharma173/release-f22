@@ -2,6 +2,7 @@
 
 #include <iostream>
 
+#include "StickerSheet.h"
 int main() {
   Image alma;
 
@@ -19,6 +20,8 @@ int main() {
   alma.readFromFile("../alma.png");
   alma.scale(2);
   alma.writeToFile("../scale2x.png");
+
+
 
   return 0;
 }

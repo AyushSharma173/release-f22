@@ -37,7 +37,7 @@ Room& Room::operator=(const Room& other)
 
 Room::~Room()
 {
-    clear();
+    // clear();
 }
 
 void Room::addLetter(const Letter& L)

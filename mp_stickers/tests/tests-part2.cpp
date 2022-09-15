@@ -26,7 +26,6 @@ TEST_CASE("A basic StickerSheet works", "[weight=5][part=2][timeout=30000][valgr
 
   Image expected;
   expected.readFromFile("../tests/expected.png");
-
   REQUIRE( sheet.render() == expected );
 }
 

@@ -1,0 +1,12 @@
+/workspaces/CS_225/release-f22/mp_stickers/build/CMakeFiles/test.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/CMakeFiles/main.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/CMakeFiles/testimage.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/CMakeFiles/edit_cache.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/CMakeFiles/rebuild_cache.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/lib/CMakeFiles/lodepng.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/lib/CMakeFiles/cs225.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/src/CMakeFiles/src.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/src/CMakeFiles/edit_cache.dir
+/workspaces/CS_225/release-f22/mp_stickers/build/src/CMakeFiles/rebuild_cache.dir

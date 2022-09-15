@@ -26,7 +26,6 @@ int main()
     theAllocator.allocate();
     theAllocator.printRooms();
     fileio::halt();
-
     std::cout << std::endl;
     return 0;
 }
